@@ -5,7 +5,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='pandas_eval',
+    name='expr-eval',
     version='0.3a',
     description='Safe pandas eval based on numexpr',
     long_description='Safe pandas eval based on numexpr',
